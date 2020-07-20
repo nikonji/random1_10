@@ -33,6 +33,6 @@ sh random1_10.sh
 * Shuf command documentation : https://shapeshed.com/unix-shuf/#:~:text=The%20shuf%20command%20generates%20random,or%20data%20from%20a%20list.
 
 ## Known limitations / bugs
-* The range is limited between 1-10.*
+*The range is limited between 1-10.*
 
 *The user don't have the rights to specifiy a specific range.*
