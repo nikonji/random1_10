@@ -7,7 +7,7 @@ This is for a task created by Adjust, random1_10 is a script that writes the num
 
 ## Build Instructions
 
-WORKS On any linux distros
+Works on all linux distros
 
 ## Usage
 Open terminal and type following commands:
