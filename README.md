@@ -35,4 +35,4 @@ sh random1_10.sh
 ## Known limitations / bugs
 *The range is limited between 1-10.*
 
-*The user don't have the rights to specifiy a specific range.*
+*The user don't have the rights to choose a specific range.*
